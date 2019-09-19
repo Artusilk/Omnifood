@@ -1,1 +1,1 @@
-# Omnifood
+# Omnifood final graduation project.
